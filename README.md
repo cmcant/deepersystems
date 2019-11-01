@@ -35,24 +35,22 @@ Note that if there is an easier way for us to test the app we are open to sugges
 
 ## Server
 
-cd server
-./manage.py runserver
-Link API
-http://201.76.149.210:8002
+- cd server
+- ./manage.py runserver
+- http://201.76.149.210:8002
 
 ## API - Image
-[![Image APP]([![Image API](https://github.com/cmcant/deepersystems/blob/master/imgapi.png)]
-)]
+![Image API](https://github.com/cmcant/deepersystems/blob/master/imgapi.png)
 
 ## Client
 
 ## APP - Image
 
-[![Image APP](https://github.com/cmcant/deepersystems/blob/master/imgapp.jpg)]
+![Image APP](https://github.com/cmcant/deepersystems/blob/master/imgapp.jpg)
 
 ## APP - Video
 
 
-[![Video APP](https://github.com/cmcant/deepersystems/blob/master/V%C3%ADdeo.MOV)]
+![Video APP](https://github.com/cmcant/deepersystems/blob/master/V%C3%ADdeo.MOV)
 
 
