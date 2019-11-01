@@ -42,4 +42,13 @@ http://201.76.149.210:8002
 
 ## Client
 
-[![Image API](https://github.com/cmcant/deepersystems/blob/master/imgapp.jpg)]
+## APP - Image
+
+[![Image APP](https://github.com/cmcant/deepersystems/blob/master/imgapp.jpg)]
+
+## APP - Video
+
+
+[![Video APP](https://github.com/cmcant/deepersystems/blob/master/V%C3%ADdeo.MOV)]
+
+
