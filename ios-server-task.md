@@ -37,6 +37,7 @@ Note that if there is an easier way for us to test the app we are open to sugges
 
 cd server
 ./manage.py runserver
-
+Link API
+http://201.76.149.210:8002
 
 ## Client
